@@ -1,0 +1,1435 @@
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./tests/small.d
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./tests/small.d
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./tests/small.d
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./tests/small.d
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./tests/small.d
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./tests/small.d
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./tests/small.d
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/peterson1.d
+final min_lambda=     200.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/peterson1.d
+final min_lambda=     200.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/peterson1.d
+final min_lambda=     200.06 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/peterson1.d
+final min_lambda=     200.06 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/peterson1.d
+final min_lambda=     200.06 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/peterson1.d
+final min_lambda=     200.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/peterson1.d
+final min_lambda=     200.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr2.d
+final min_lambda=     746.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr2.d
+final min_lambda=     746.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr2.d
+final min_lambda=     746.49 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr2.d
+final min_lambda=     746.49 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr2.d
+final min_lambda=     746.49 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr2.d
+final min_lambda=     746.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr2.d
+final min_lambda=     746.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr4.d
+final min_lambda=     347.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr4.d
+final min_lambda=     347.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr4.d
+final min_lambda=     347.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr4.d
+final min_lambda=     347.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr4.d
+final min_lambda=     347.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr4.d
+final min_lambda=     347.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr4.d
+final min_lambda=     347.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/example-bad3.d
+final min_lambda=       0.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/example-bad3.d
+final min_lambda=       0.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/example-bad3.d
+final min_lambda=       0.53 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/example-bad3.d
+final min_lambda=       0.53 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/example-bad3.d
+final min_lambda=       0.53 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/example-bad3.d
+final min_lambda=       0.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/example-bad3.d
+final min_lambda=       0.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/complete3.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/complete3.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/complete3.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/complete3.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/complete3.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/complete3.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/complete3.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/rd_4_4_90.d
+final min_lambda=     353.84 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/rd_4_4_90.d
+final min_lambda=     353.84 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/rd_4_4_90.d
+final min_lambda=     353.83 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/rd_4_4_90.d
+final min_lambda=     353.83 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/rd_4_4_90.d
+final min_lambda=     353.83 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/rd_4_4_90.d
+final min_lambda=     353.84 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/rd_4_4_90.d
+final min_lambda=     353.84 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/k3_3.d
+final min_lambda=     134.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/k3_3.d
+final min_lambda=     134.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/k3_3.d
+final min_lambda=     134.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/k3_3.d
+final min_lambda=     134.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/k3_3.d
+final min_lambda=     134.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/k3_3.d
+final min_lambda=     134.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/k3_3.d
+final min_lambda=     134.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/complete5.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/complete5.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/complete5.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/complete5.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/complete5.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/complete5.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/complete5.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/example-bad1.d
+final min_lambda=     273.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/example-bad1.d
+final min_lambda=     273.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/example-bad1.d
+final min_lambda=     273.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/example-bad1.d
+final min_lambda=     273.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/example-bad1.d
+final min_lambda=     273.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/example-bad1.d
+final min_lambda=     273.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/example-bad1.d
+final min_lambda=     273.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr11d.d
+final min_lambda=     478.71 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr11d.d
+final min_lambda=     478.71 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr11d.d
+final min_lambda=     478.71 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr11d.d
+final min_lambda=     478.71 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr11d.d
+final min_lambda=     478.71 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr11d.d
+final min_lambda=     478.71 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr11d.d
+final min_lambda=     478.71 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/dene.d
+final min_lambda=       0.32 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/dene.d
+final min_lambda=       0.32 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/dene.d
+final min_lambda=       0.31 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/dene.d
+final min_lambda=       0.31 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/dene.d
+final min_lambda=       0.31 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/dene.d
+final min_lambda=       0.32 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/dene.d
+final min_lambda=       0.32 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/stg.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/stg.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/stg.d
+final min_lambda=       0.04 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/stg.d
+final min_lambda=       0.04 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/stg.d
+final min_lambda=       0.04 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/stg.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/stg.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr11.d
+final min_lambda=     533.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr11.d
+final min_lambda=     533.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr11.d
+final min_lambda=     533.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr11.d
+final min_lambda=     533.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr11.d
+final min_lambda=     533.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr11.d
+final min_lambda=     533.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr11.d
+final min_lambda=     533.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr6.d
+final min_lambda=     321.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr6.d
+final min_lambda=     321.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr6.d
+final min_lambda=     321.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr6.d
+final min_lambda=     321.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr6.d
+final min_lambda=     321.68 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr6.d
+final min_lambda=     321.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr6.d
+final min_lambda=     321.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/howard-min.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/howard-min.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/howard-min.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/howard-min.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/howard-min.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/howard-min.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/howard-min.d
+final min_lambda=       0.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr10.d
+final min_lambda=      33.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr10.d
+final min_lambda=      33.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr10.d
+final min_lambda=      33.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr10.d
+final min_lambda=      33.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr10.d
+final min_lambda=      33.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr10.d
+final min_lambda=      33.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr10.d
+final min_lambda=      33.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/green.d
+final min_lambda=       0.30 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/green.d
+final min_lambda=       0.30 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/green.d
+final min_lambda=       0.29 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/green.d
+final min_lambda=       0.29 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/green.d
+final min_lambda=       0.29 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/green.d
+final min_lambda=       0.30 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/green.d
+final min_lambda=       0.30 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr14.d
+final min_lambda=     213.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr14.d
+final min_lambda=     213.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr14.d
+final min_lambda=     213.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr14.d
+final min_lambda=     213.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr14.d
+final min_lambda=     213.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr14.d
+final min_lambda=     213.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr14.d
+final min_lambda=     213.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr3.d
+final min_lambda=     572.73 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr3.d
+final min_lambda=     572.73 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr3.d
+final min_lambda=     572.73 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr3.d
+final min_lambda=     572.73 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr3.d
+final min_lambda=     572.73 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr3.d
+final min_lambda=     572.73 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr3.d
+final min_lambda=     572.73 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr4-shift2.d
+final min_lambda=     227.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr4-shift2.d
+final min_lambda=     227.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr4-shift2.d
+final min_lambda=     227.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr4-shift2.d
+final min_lambda=     227.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr4-shift2.d
+final min_lambda=     227.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr4-shift2.d
+final min_lambda=     227.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr4-shift2.d
+final min_lambda=     227.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gerez.d
+final min_lambda=      -1.45 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gerez.d
+final min_lambda=      -1.45 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gerez.d
+final min_lambda=      -1.46 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gerez.d
+final min_lambda=      -1.46 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gerez.d
+final min_lambda=      -1.46 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gerez.d
+final min_lambda=      -1.45 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gerez.d
+final min_lambda=      -1.45 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr4-shift.d
+final min_lambda=     227.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr4-shift.d
+final min_lambda=     227.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr4-shift.d
+final min_lambda=     227.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr4-shift.d
+final min_lambda=     227.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr4-shift.d
+final min_lambda=     227.41 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr4-shift.d
+final min_lambda=     227.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr4-shift.d
+final min_lambda=     227.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr7.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr7.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr7.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr7.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr7.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr7.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr7.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/peterson.d
+final min_lambda=     119.63 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/peterson.d
+final min_lambda=     119.63 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/peterson.d
+final min_lambda=     119.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/peterson.d
+final min_lambda=     119.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/peterson.d
+final min_lambda=     119.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/peterson.d
+final min_lambda=     119.63 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/peterson.d
+final min_lambda=     119.63 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/green4.d
+final min_lambda=       0.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/green4.d
+final min_lambda=       0.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/green4.d
+final min_lambda=       0.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/green4.d
+final min_lambda=       0.19 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/green4.d
+final min_lambda=       0.19 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/green4.d
+final min_lambda=       0.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/green4.d
+final min_lambda=       0.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr1-acyclic.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr1-acyclic.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr1-acyclic.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr1-acyclic.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr1-acyclic.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr1-acyclic.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr1-acyclic.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/peterson2.d
+final min_lambda=      25.63 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/peterson2.d
+final min_lambda=      25.63 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/peterson2.d
+final min_lambda=      25.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/peterson2.d
+final min_lambda=      25.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/peterson2.d
+final min_lambda=      25.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/peterson2.d
+final min_lambda=      25.63 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/peterson2.d
+final min_lambda=      25.63 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/complete7.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/complete7.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/complete7.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/complete7.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/complete7.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/complete7.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/complete7.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr00.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr00.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr00.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr00.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr00.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr00.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr00.d
+final min_lambda= infinity time= 0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr5.d
+final min_lambda=     355.48 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr5.d
+final min_lambda=     355.48 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr5.d
+final min_lambda=     355.47 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr5.d
+final min_lambda=     355.47 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr5.d
+final min_lambda=     355.47 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr5.d
+final min_lambda=     355.48 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr5.d
+final min_lambda=     355.48 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/green3.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/green3.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/green3.d
+final min_lambda=       0.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/green3.d
+final min_lambda=       0.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/green3.d
+final min_lambda=       0.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/green3.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/green3.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/present.d
+final min_lambda=       2.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/present.d
+final min_lambda=       2.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/present.d
+final min_lambda=       2.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/present.d
+final min_lambda=       2.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/present.d
+final min_lambda=       2.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/present.d
+final min_lambda=       2.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/present.d
+final min_lambda=       2.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/howard-max.d
+final min_lambda=      -0.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/howard-max.d
+final min_lambda=      -0.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/howard-max.d
+final min_lambda=      -0.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/howard-max.d
+final min_lambda=      -0.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/howard-max.d
+final min_lambda=      -0.51 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/howard-max.d
+final min_lambda=      -0.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/howard-max.d
+final min_lambda=      -0.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr1.d
+final min_lambda=     235.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr1.d
+final min_lambda=     235.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr1.d
+final min_lambda=     235.61 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr1.d
+final min_lambda=     235.61 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr1.d
+final min_lambda=     235.61 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr1.d
+final min_lambda=     235.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr1.d
+final min_lambda=     235.62 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/complete4.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/complete4.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/complete4.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/complete4.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/complete4.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/complete4.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/complete4.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr8.d
+final min_lambda=     393.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr8.d
+final min_lambda=     393.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr8.d
+final min_lambda=     393.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr8.d
+final min_lambda=     393.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr8.d
+final min_lambda=     393.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr8.d
+final min_lambda=     393.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr8.d
+final min_lambda=     393.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/complete8.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/complete8.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/complete8.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/complete8.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/complete8.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/complete8.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/complete8.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/example-bad2.d
+final min_lambda=      55.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/example-bad2.d
+final min_lambda=      55.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/example-bad2.d
+final min_lambda=      55.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/example-bad2.d
+final min_lambda=      55.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/example-bad2.d
+final min_lambda=      55.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/example-bad2.d
+final min_lambda=      55.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/example-bad2.d
+final min_lambda=      55.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr-paper.d
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr-paper.d
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr-paper.d
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr-paper.d
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr-paper.d
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr-paper.d
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr-paper.d
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/green3nonzero.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/green3nonzero.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/green3nonzero.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/green3nonzero.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/green3nonzero.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/green3nonzero.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/green3nonzero.d
+final min_lambda=       0.11 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/trace.d
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/trace.d
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/trace.d
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/trace.d
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/trace.d
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/trace.d
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/trace.d
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/example.new.d
+final min_lambda=     102.52 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/example.new.d
+final min_lambda=     102.52 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/example.new.d
+final min_lambda=     102.51 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/example.new.d
+final min_lambda=     102.51 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/example.new.d
+final min_lambda=     102.51 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/example.new.d
+final min_lambda=     102.52 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/example.new.d
+final min_lambda=     102.52 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/ku.d
+final min_lambda=      -0.67 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/ku.d
+final min_lambda=      -0.67 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/ku.d
+final min_lambda=      -0.67 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/ku.d
+final min_lambda=      -0.67 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/ku.d
+final min_lambda=      -0.68 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/ku.d
+final min_lambda=      -0.67 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/ku.d
+final min_lambda=      -0.67 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr9.d
+final min_lambda=     237.36 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr9.d
+final min_lambda=     237.36 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr9.d
+final min_lambda=     237.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr9.d
+final min_lambda=     237.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr9.d
+final min_lambda=     237.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr9.d
+final min_lambda=     237.36 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr9.d
+final min_lambda=     237.36 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/complete2.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/complete2.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/complete2.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/complete2.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/complete2.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/complete2.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/complete2.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr12.d
+final min_lambda=     279.04 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr12.d
+final min_lambda=     279.04 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr12.d
+final min_lambda=     279.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr12.d
+final min_lambda=     279.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr12.d
+final min_lambda=     279.04 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr12.d
+final min_lambda=     279.04 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr12.d
+final min_lambda=     279.04 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/example.d
+final min_lambda=      68.23 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/example.d
+final min_lambda=      68.23 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/example.d
+final min_lambda=      68.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/example.d
+final min_lambda=      68.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/example.d
+final min_lambda=      68.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/example.d
+final min_lambda=      68.23 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/example.d
+final min_lambda=      68.23 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/r20_60.d
+final min_lambda=       4.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/r20_60.d
+final min_lambda=       4.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/r20_60.d
+final min_lambda=       4.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/r20_60.d
+final min_lambda=       4.12 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/r20_60.d
+final min_lambda=       4.12 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/r20_60.d
+final min_lambda=       4.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/r20_60.d
+final min_lambda=       4.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr0.d
+final min_lambda=    3205.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr0.d
+final min_lambda=    3205.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr0.d
+final min_lambda=    3205.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr0.d
+final min_lambda=    3205.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr0.d
+final min_lambda=    3205.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr0.d
+final min_lambda=    3205.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr0.d
+final min_lambda=    3205.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/complete6.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/complete6.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/complete6.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/complete6.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/complete6.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/complete6.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/complete6.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/rd_10_30_1997.d
+final min_lambda=     125.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/rd_10_30_1997.d
+final min_lambda=     125.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/rd_10_30_1997.d
+final min_lambda=     125.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/rd_10_30_1997.d
+final min_lambda=     125.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/rd_10_30_1997.d
+final min_lambda=     125.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/rd_10_30_1997.d
+final min_lambda=     125.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/rd_10_30_1997.d
+final min_lambda=     125.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/example-rev.d
+final min_lambda=       0.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/example-rev.d
+final min_lambda=       0.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/example-rev.d
+final min_lambda=       0.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/example-rev.d
+final min_lambda=       0.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/example-rev.d
+final min_lambda=       0.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/example-rev.d
+final min_lambda=       0.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/example-rev.d
+final min_lambda=       0.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/gr13.d
+final min_lambda=     386.58 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/gr13.d
+final min_lambda=     386.58 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/gr13.d
+final min_lambda=     386.57 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/gr13.d
+final min_lambda=     386.57 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/gr13.d
+final min_lambda=     386.57 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/gr13.d
+final min_lambda=     386.58 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/gr13.d
+final min_lambda=     386.58 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/rd_5_10_90.d
+final min_lambda=     239.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/rd_5_10_90.d
+final min_lambda=     239.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/rd_5_10_90.d
+final min_lambda=     239.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/rd_5_10_90.d
+final min_lambda=     239.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/rd_5_10_90.d
+final min_lambda=     239.53 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/rd_5_10_90.d
+final min_lambda=     239.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/rd_5_10_90.d
+final min_lambda=     239.54 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/rd_4_8_90.d
+final min_lambda=     201.65 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/rd_4_8_90.d
+final min_lambda=     201.65 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/rd_4_8_90.d
+final min_lambda=     201.64 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/rd_4_8_90.d
+final min_lambda=     201.64 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/rd_4_8_90.d
+final min_lambda=     201.64 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/rd_4_8_90.d
+final min_lambda=     201.65 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/rd_4_8_90.d
+final min_lambda=     201.65 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/stg0.d
+final min_lambda=      -0.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/stg0.d
+final min_lambda=      -0.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/stg0.d
+final min_lambda=      -0.23 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/stg0.d
+final min_lambda=      -0.23 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/stg0.d
+final min_lambda=      -0.23 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/stg0.d
+final min_lambda=      -0.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/stg0.d
+final min_lambda=      -0.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/complete9.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/complete9.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/complete9.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/complete9.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/complete9.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/complete9.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/complete9.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/good.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/good.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/good.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/good.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/good.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/good.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/good.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core/bad.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core/bad.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core/bad.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core/bad.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core/bad.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core/bad.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core/bad.d
+final min_lambda=       1.00 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-bad/bad7.d
+final min_lambda=      77.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-bad/bad7.d
+final min_lambda=      77.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-bad/bad7.d
+final min_lambda=      77.68 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-bad/bad7.d
+final min_lambda=      77.68 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-bad/bad7.d
+final min_lambda=      77.68 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-bad/bad7.d
+final min_lambda=      77.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-bad/bad7.d
+final min_lambda=      77.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-bad/bad2.d
+final min_lambda=      34.77 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-bad/bad2.d
+final min_lambda=      34.77 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-bad/bad2.d
+final min_lambda=      34.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-bad/bad2.d
+final min_lambda=      34.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-bad/bad2.d
+final min_lambda=      34.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-bad/bad2.d
+final min_lambda=      34.77 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-bad/bad2.d
+final min_lambda=      34.77 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-bad/bad3.d
+final min_lambda=      84.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-bad/bad3.d
+final min_lambda=      84.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-bad/bad3.d
+final min_lambda=      84.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-bad/bad3.d
+final min_lambda=      84.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-bad/bad3.d
+final min_lambda=      84.88 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-bad/bad3.d
+final min_lambda=      84.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-bad/bad3.d
+final min_lambda=      84.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-bad/bad5.d
+final min_lambda=     102.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-bad/bad5.d
+final min_lambda=     102.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-bad/bad5.d
+final min_lambda=     102.34 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-bad/bad5.d
+final min_lambda=     102.34 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-bad/bad5.d
+final min_lambda=     102.34 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-bad/bad5.d
+final min_lambda=     102.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-bad/bad5.d
+final min_lambda=     102.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-bad/bad4.d
+final min_lambda=     130.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-bad/bad4.d
+final min_lambda=     130.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-bad/bad4.d
+final min_lambda=     130.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-bad/bad4.d
+final min_lambda=     130.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-bad/bad4.d
+final min_lambda=     130.10 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-bad/bad4.d
+final min_lambda=     130.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-bad/bad4.d
+final min_lambda=     130.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-bad/bad6.d
+final min_lambda=      48.17 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-bad/bad6.d
+final min_lambda=      48.17 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-bad/bad6.d
+final min_lambda=      48.17 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-bad/bad6.d
+final min_lambda=      48.17 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-bad/bad6.d
+final min_lambda=      48.17 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-bad/bad6.d
+final min_lambda=      48.17 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-bad/bad6.d
+final min_lambda=      48.17 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-bad/bad1.d
+final min_lambda=      91.86 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-bad/bad1.d
+final min_lambda=      91.86 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-bad/bad1.d
+final min_lambda=      91.85 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-bad/bad1.d
+final min_lambda=      91.85 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-bad/bad1.d
+final min_lambda=      91.85 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-bad/bad1.d
+final min_lambda=      91.86 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-bad/bad1.d
+final min_lambda=      91.86 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-big/rd_1024_2048_1.d
+final min_lambda=      94.29 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-big/rd_1024_2048_1.d
+final min_lambda=      94.29 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-big/rd_1024_2048_1.d
+final min_lambda=      94.29 time=       0.06
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-big/rd_1024_2048_1.d
+final min_lambda=      94.28 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-big/rd_1024_2048_1.d
+final min_lambda=      94.28 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-big/rd_1024_2048_1.d
+final min_lambda=      94.29 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-big/rd_1024_2048_1.d
+final min_lambda=      94.29 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-big/r1000.d
+final min_lambda=       0.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-big/r1000.d
+final min_lambda=       0.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-big/r1000.d
+final min_lambda=       0.09 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-big/r1000.d
+final min_lambda=       0.09 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-big/r1000.d
+final min_lambda=       0.09 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-big/r1000.d
+final min_lambda=       0.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-big/r1000.d
+final min_lambda=       0.10 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-big/grid.d
+final min_lambda=       0.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-big/grid.d
+final min_lambda=       0.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-big/grid.d
+final min_lambda=       0.19 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-big/grid.d
+final min_lambda=       0.19 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-big/grid.d
+final min_lambda=       0.19 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-big/grid.d
+final min_lambda=       0.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-big/grid.d
+final min_lambda=       0.20 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./core-big/rd_big.d
+final min_lambda=      34.15 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./core-big/rd_big.d
+final min_lambda=      34.15 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./core-big/rd_big.d
+final min_lambda=      34.14 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./core-big/rd_big.d
+final min_lambda=      34.14 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./core-big/rd_big.d
+final min_lambda=      34.14 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./core-big/rd_big.d
+final min_lambda=      34.15 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./core-big/rd_big.d
+final min_lambda=      34.15 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/mult32a.d
+final min_lambda=      12.46 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/mult32a.d
+final min_lambda=      12.46 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/mult32a.d
+final min_lambda=      12.45 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/mult32a.d
+final min_lambda=      12.45 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/mult32a.d
+final min_lambda=      12.45 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/mult32a.d
+final min_lambda=      12.46 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/mult32a.d
+final min_lambda=      12.46 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s208.d
+final min_lambda=      74.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s208.d
+final min_lambda=      74.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s208.d
+final min_lambda=      74.39 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s208.d
+final min_lambda=      74.39 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s208.d
+final min_lambda=      74.39 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s208.d
+final min_lambda=      74.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s208.d
+final min_lambda=      74.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s27.d
+final min_lambda=      70.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s27.d
+final min_lambda=      70.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s27.d
+final min_lambda=      70.12 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s27.d
+final min_lambda=      70.12 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s27.d
+final min_lambda=      70.12 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s27.d
+final min_lambda=      70.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s27.d
+final min_lambda=      70.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s400.d
+final min_lambda=      53.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s400.d
+final min_lambda=      53.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s400.d
+final min_lambda=      53.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s400.d
+final min_lambda=      53.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s400.d
+final min_lambda=      53.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s400.d
+final min_lambda=      53.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s400.d
+final min_lambda=      53.69 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/mm9a.d
+final min_lambda=      44.51 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/mm9a.d
+final min_lambda=      44.51 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/mm9a.d
+final min_lambda=      44.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/mm9a.d
+final min_lambda=      44.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/mm9a.d
+final min_lambda=      44.50 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/mm9a.d
+final min_lambda=      44.51 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/mm9a.d
+final min_lambda=      44.51 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s526.d
+final min_lambda=      46.95 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s526.d
+final min_lambda=      46.95 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s526.d
+final min_lambda=      46.94 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s526.d
+final min_lambda=      46.94 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s526.d
+final min_lambda=      46.94 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s526.d
+final min_lambda=      46.95 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s526.d
+final min_lambda=      46.95 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/daio_receiver.d
+final min_lambda=      10.14 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/daio_receiver.d
+final min_lambda=      10.14 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/daio_receiver.d
+final min_lambda=      10.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/daio_receiver.d
+final min_lambda=      10.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/daio_receiver.d
+final min_lambda=      10.13 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/daio_receiver.d
+final min_lambda=      10.14 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/daio_receiver.d
+final min_lambda=      10.14 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/parker1986.d
+final min_lambda=      33.38 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/parker1986.d
+final min_lambda=      33.38 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/parker1986.d
+final min_lambda=      33.37 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/parker1986.d
+final min_lambda=      33.37 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/parker1986.d
+final min_lambda=      33.37 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/parker1986.d
+final min_lambda=      33.38 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/parker1986.d
+final min_lambda=      33.38 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s9234.d
+final min_lambda=      45.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s9234.d
+final min_lambda=      45.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s9234.d
+final min_lambda=      45.43 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s9234.d
+final min_lambda=      45.43 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s9234.d
+final min_lambda=      45.43 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s9234.d
+final min_lambda=      45.44 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s9234.d
+final min_lambda=      45.44 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s349.d
+final min_lambda=      59.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s349.d
+final min_lambda=      59.05 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s349.d
+final min_lambda=      59.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s349.d
+final min_lambda=      59.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s349.d
+final min_lambda=      59.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s349.d
+final min_lambda=      59.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s349.d
+final min_lambda=      59.05 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/mult16b.d
+final min_lambda=      18.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/mult16b.d
+final min_lambda=      18.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/mult16b.d
+final min_lambda=      18.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/mult16b.d
+final min_lambda=      18.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/mult16b.d
+final min_lambda=      18.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/mult16b.d
+final min_lambda=      18.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/mult16b.d
+final min_lambda=      18.90 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s1423.d
+final min_lambda=      19.27 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s1423.d
+final min_lambda=      19.27 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s1423.d
+final min_lambda=      19.26 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s1423.d
+final min_lambda=      19.26 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s1423.d
+final min_lambda=      19.26 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s1423.d
+final min_lambda=      19.27 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s1423.d
+final min_lambda=      19.27 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s526n.d
+final min_lambda=      49.65 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s526n.d
+final min_lambda=      49.65 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s526n.d
+final min_lambda=      49.64 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s526n.d
+final min_lambda=      49.64 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s526n.d
+final min_lambda=      49.64 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s526n.d
+final min_lambda=      49.65 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s526n.d
+final min_lambda=      49.65 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/bigkey.d
+final min_lambda=      14.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/bigkey.d
+final min_lambda=      14.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/bigkey.d
+final min_lambda=      14.23 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/bigkey.d
+final min_lambda=      14.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/bigkey.d
+final min_lambda=      14.21 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/bigkey.d
+final min_lambda=      14.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/bigkey.d
+final min_lambda=      14.22 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/mult16a.d
+final min_lambda=      30.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/mult16a.d
+final min_lambda=      30.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/mult16a.d
+final min_lambda=      30.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/mult16a.d
+final min_lambda=      30.07 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/mult16a.d
+final min_lambda=      30.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/mult16a.d
+final min_lambda=      30.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/mult16a.d
+final min_lambda=      30.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/dsip.d
+final min_lambda=      44.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/dsip.d
+final min_lambda=      44.35 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/dsip.d
+final min_lambda=      44.35 time=       0.03
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/dsip.d
+final min_lambda=      44.34 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/dsip.d
+final min_lambda=      44.34 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/dsip.d
+final min_lambda=      44.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/dsip.d
+final min_lambda=      44.35 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s344.d
+final min_lambda=      45.93 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s344.d
+final min_lambda=      45.93 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s344.d
+final min_lambda=      45.93 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s344.d
+final min_lambda=      45.92 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s344.d
+final min_lambda=      45.92 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s344.d
+final min_lambda=      45.93 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s344.d
+final min_lambda=      45.93 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/phase_decoder.d
+final min_lambda=      35.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/phase_decoder.d
+final min_lambda=      35.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/phase_decoder.d
+final min_lambda=      35.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/phase_decoder.d
+final min_lambda=      35.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/phase_decoder.d
+final min_lambda=      35.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/phase_decoder.d
+final min_lambda=      35.82 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/phase_decoder.d
+final min_lambda=      35.82 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s953.d
+final min_lambda=      46.79 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s953.d
+final min_lambda=      46.79 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s953.d
+final min_lambda=      46.79 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s953.d
+final min_lambda=      46.79 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s953.d
+final min_lambda=      46.79 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s953.d
+final min_lambda=      46.79 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s953.d
+final min_lambda=      46.79 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/mm30a.d
+final min_lambda=      49.74 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/mm30a.d
+final min_lambda=      49.74 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/mm30a.d
+final min_lambda=      49.74 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/mm30a.d
+final min_lambda=      49.74 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/mm30a.d
+final min_lambda=      49.74 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/mm30a.d
+final min_lambda=      49.74 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/mm30a.d
+final min_lambda=      49.74 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s38584.d
+final min_lambda=      25.99 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s38584.d
+final min_lambda=      25.99 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s38584.d
+final min_lambda=      25.99 time=       5.31
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s38584.d
+final min_lambda=      25.98 time=       0.13
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s38584.d
+final min_lambda=      25.98 time=       0.03
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s38584.d
+final min_lambda=      25.99 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s38584.d
+final min_lambda=      25.99 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s382.d
+final min_lambda=      49.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s382.d
+final min_lambda=      49.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s382.d
+final min_lambda=      49.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s382.d
+final min_lambda=      49.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s382.d
+final min_lambda=      49.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s382.d
+final min_lambda=      49.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s382.d
+final min_lambda=      49.76 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s444.d
+final min_lambda=      43.08 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s444.d
+final min_lambda=      43.08 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s444.d
+final min_lambda=      43.08 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s444.d
+final min_lambda=      43.08 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s444.d
+final min_lambda=      43.07 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s444.d
+final min_lambda=      43.08 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s444.d
+final min_lambda=      43.08 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s838.d
+final min_lambda=      33.37 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s838.d
+final min_lambda=      33.37 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s838.d
+final min_lambda=      33.36 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s838.d
+final min_lambda=      33.36 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s838.d
+final min_lambda=      33.36 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s838.d
+final min_lambda=      33.37 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s838.d
+final min_lambda=      33.37 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/mm4a.d
+final min_lambda=      45.27 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/mm4a.d
+final min_lambda=      45.27 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/mm4a.d
+final min_lambda=      45.27 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/mm4a.d
+final min_lambda=      45.26 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/mm4a.d
+final min_lambda=      45.26 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/mm4a.d
+final min_lambda=      45.27 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/mm4a.d
+final min_lambda=      45.27 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/sbc.d
+final min_lambda=      41.33 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/sbc.d
+final min_lambda=      41.33 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/sbc.d
+final min_lambda=      41.32 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/sbc.d
+final min_lambda=      41.32 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/sbc.d
+final min_lambda=      41.32 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/sbc.d
+final min_lambda=      41.33 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/sbc.d
+final min_lambda=      41.33 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/ecc.d
+final min_lambda=      30.60 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/ecc.d
+final min_lambda=      30.60 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/ecc.d
+final min_lambda=      30.59 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/ecc.d
+final min_lambda=      30.59 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/ecc.d
+final min_lambda=      30.59 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/ecc.d
+final min_lambda=      30.60 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/ecc.d
+final min_lambda=      30.60 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s641.d
+final min_lambda=      66.43 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s641.d
+final min_lambda=      66.43 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s641.d
+final min_lambda=      66.43 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s641.d
+final min_lambda=      66.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s641.d
+final min_lambda=      66.42 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s641.d
+final min_lambda=      66.43 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s641.d
+final min_lambda=      66.43 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s420.d
+final min_lambda=      49.47 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s420.d
+final min_lambda=      49.47 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s420.d
+final min_lambda=      49.47 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s420.d
+final min_lambda=      49.47 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s420.d
+final min_lambda=      49.46 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s420.d
+final min_lambda=      49.47 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s420.d
+final min_lambda=      49.47 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/mm9b.d
+final min_lambda=      29.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/mm9b.d
+final min_lambda=      29.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/mm9b.d
+final min_lambda=      29.88 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/mm9b.d
+final min_lambda=      29.88 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/mm9b.d
+final min_lambda=      29.88 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/mm9b.d
+final min_lambda=      29.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/mm9b.d
+final min_lambda=      29.89 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s713.d
+final min_lambda=      63.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s713.d
+final min_lambda=      63.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s713.d
+final min_lambda=      63.39 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s713.d
+final min_lambda=      63.39 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s713.d
+final min_lambda=      63.39 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s713.d
+final min_lambda=      63.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s713.d
+final min_lambda=      63.40 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s38417.d
+final min_lambda=      42.15 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s38417.d
+final min_lambda=      42.15 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s38417.d
+final min_lambda=      42.15 time=       0.04
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s38417.d
+final min_lambda=      42.15 time=       0.08
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s38417.d
+final min_lambda=      42.14 time=       0.02
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s38417.d
+final min_lambda=      42.15 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s38417.d
+final min_lambda=      42.15 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/howard.x on ./iscas/s5378.d
+final min_lambda=      49.99 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/ko.x on ./iscas/s5378.d
+final min_lambda=      49.99 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/lawler.x on ./iscas/s5378.d
+final min_lambda=      49.98 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/szymanski.x on ./iscas/s5378.d
+final min_lambda=      49.98 time=       0.01
+Running ../optimum-cycle-ratio-algorithms/tarjan.x on ./iscas/s5378.d
+final min_lambda=      49.98 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/valiter.x on ./iscas/s5378.d
+final min_lambda=      49.99 time=       0.00
+Running ../optimum-cycle-ratio-algorithms/yto.x on ./iscas/s5378.d
+final min_lambda=      49.99 time=       0.00
