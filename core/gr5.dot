@@ -1,0 +1,10 @@
+digraph gr5_save_254582130 {
+label="(name=gr5_save_254582130,n=3,m=4)";
+	1 -> 2 [label="(w=5118,t=17)"];
+	2 -> 1 [label="(w=9812,t=25)"];
+	1 -> 3 [label="(w=2252,t=2)"];
+	2 -> 3 [label="(w=9459,t=10)"];
+1 [label="1"];
+3 [label="3"];
+2 [label="2"];
+}
