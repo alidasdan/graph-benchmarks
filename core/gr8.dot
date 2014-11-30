@@ -1,0 +1,7 @@
+digraph gr8_save_254778740 {
+label="(name=gr8_save_254778740,n=2,m=2)";
+	1 -> 1 [label="(w=5118,t=13)"];
+	1 -> 2 [label="(w=9812,t=15)"];
+1 [label="1"];
+2 [label="2"];
+}
