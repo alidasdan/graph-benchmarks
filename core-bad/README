@@ -1,0 +1,7 @@
+these are extracted from some circuits on which my tarjan was going into an
+infinite loop. these are the smallest example i could come up with to replicate
+the same infinite behavior. using them, i identified and fixed the problem. the
+problem was that the four constant values in ad_alg_tarjan.cc were not 
+identical to goldberg's values. 
+later i might go over the code to eliminate this dependence on the constant values.
+.
