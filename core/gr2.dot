@@ -1,0 +1,7 @@
+digraph gr2_save_252812553 {
+label="(name=gr2_save_252812553,n=2,m=2)";
+	1 -> 2 [label="(w=5118,t=2)"];
+	2 -> 1 [label="(w=9812,t=18)"];
+1 [label="1"];
+2 [label="2"];
+}
