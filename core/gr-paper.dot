@@ -1,0 +1,24 @@
+digraph paper {
+label="(name=paper,n=9,m=12)";
+	1 -> 2 [label="(w=3,t=0)"];
+	2 -> 3 [label="(w=4,t=2)"];
+	2 -> 4 [label="(w=9,t=3)"];
+	4 -> 3 [label="(w=8,t=2)"];
+	3 -> 1 [label="(w=7,t=2)"];
+	2 -> 3 [label="(w=0,t=0)"];
+	5 -> 6 [label="(w=2,t=0)"];
+	6 -> 7 [label="(w=7,t=2)"];
+	6 -> 8 [label="(w=4,t=1)"];
+	7 -> 9 [label="(w=2,t=1)"];
+	9 -> 8 [label="(w=5,t=2)"];
+	8 -> 5 [label="(w=6,t=1)"];
+6 [label="6"];
+3 [label="3"];
+7 [label="7"];
+9 [label="9"];
+2 [label="2"];
+8 [label="8"];
+1 [label="1"];
+4 [label="4"];
+5 [label="5"];
+}
