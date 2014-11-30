@@ -1,0 +1,18 @@
+digraph small_netD_428344096 {
+label="(name=small_netD-428344096,n=7,m=8)";
+	5 -> 1 [label="(w=2124,t=1)"];
+	5 -> 2 [label="(w=2081,t=1)"];
+	1 -> 3 [label="(w=682,t=1)"];
+	1 -> 4 [label="(w=1986,t=1)"];
+	2 -> 3 [label="(w=1385,t=1)"];
+	2 -> 4 [label="(w=2250,t=1)"];
+	3 -> 6 [label="(w=2179,t=1)"];
+	4 -> 7 [label="(w=868,t=1)"];
+	1 [label="1"];
+	2 [label="2"];
+	3 [label="3"];
+	4 [label="4"];
+	5 [label="5"];
+	6 [label="6"];
+	7 [label="7"];
+}
