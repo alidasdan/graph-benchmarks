@@ -1,0 +1,6 @@
+# How to produce all-min-run.txt and all-max-runs.txt. 
+
+for f in `find . -name '*.d'`; do for p in ../optimum-cycle-ratio-algorithms/*.x; do echo "Running" $p "on" $f; $p $f -v 1 | grep lambda; done; done | tee all-min-runs.txt
+
+for f in `find . -name '*.d'`; do for p in ../optimum-cycle-ratio-algorithms/*.x; do echo "Running" $p "on" $f; $p $f -v 0 | grep lambda; done; done | tee all-max-runs.txt
+
