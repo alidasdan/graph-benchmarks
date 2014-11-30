@@ -1,0 +1,7 @@
+digraph complete {
+label="(name=complete,n=2,m=2)";
+	1 -> 2 [label="(w=1,t=1)"];
+	2 -> 1 [label="(w=1,t=1)"];
+1 [label="1"];
+2 [label="2"];
+}
