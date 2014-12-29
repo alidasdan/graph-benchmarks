@@ -1,9 +1,9 @@
 graph-benchmarks
 ================
 
-This directory contains directed graph benchmarks in DIMACS graph
+This package contains directed graph benchmarks in DIMACS graph
 format. These graphs were mainly used to evaluate optimum cycle
-mean/ratio algorithms in multiple of my papers on the subject. 
+mean/ratio algorithms in multiple of my papers on the subject.
 
 You can of course use these graphs to run my programs under
 'optimum-cycle-ratio-algorithms' or 'optimum-cycle-mean-algorithms'
