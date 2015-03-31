@@ -59,7 +59,7 @@ a 4 1 30 20
 ```
 
 Here the 'p' line (the 'problem' line) states that our graph, named
-'sample', has 4 nodes or vertics and 7 arcs or directed edges. The arc
+'sample', has 4 nodes or vertices and 7 arcs or directed edges. The arc
 weights are generated from a (usually uniform) random number generator
 initialized by a seed of '253926760'.
 
